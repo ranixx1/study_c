@@ -1,0 +1,13 @@
+get_char;
+get_double;
+get_int;
+get_float;
+get_long;
+get_string;
+
+format//
+%c
+%f
+%i
+%li
+%s
