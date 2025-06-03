@@ -12,7 +12,7 @@ Este repositório é dedicado ao aprendizado e prática da linguagem de programa
 
 ## Objetivo
 
-Desenvolver e melhorar minhas skills como programador, fundamentada em linguaguens de alta tipagem, usando C como referência.
+Desenvolver e melhorar minhas skills como programador, fundamentada em linguaguens de alta tipagem, que usam C como referência.
 
 
 **Happy coding! 🚀**
