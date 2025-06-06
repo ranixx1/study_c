@@ -7,7 +7,7 @@ get_string;
 
 format//
 %c
-%f
-%i
+%f //float
+%i //int
 %li
 %s
