@@ -48,8 +48,8 @@ gcc src/hello.c -o build/hello
 ./build/hello
 ```
 
-```🗺️ Roteiro de Estudos
-Esta é uma lista dos tópicos que pretendo estudar e praticar. Vou marcá-los conforme avanço.
+🗺️ Roteiro de Estudos
+```Esta é uma lista dos tópicos que pretendo estudar e praticar. Vou marcá-los conforme avanço.
 
 [x] Sintaxe básica e "Hello, World!"
 [ ] Variáveis e Tipos de Dados (int, char, float, double)
