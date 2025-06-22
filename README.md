@@ -27,10 +27,13 @@ Para compilar os códigos deste repositório, você precisará de um compilador 
 ```bash
 git clone [https://github.com/ranixx1/c.git](https://github.com/ranixx1/c.git)
 cd c
+```
+
 2. Compile um arquivo de exemplo:
+
 Use o GCC para compilar o arquivo .c desejado que está na pasta src. O comando -o define o nome do arquivo executável. Para manter o projeto organizado, é uma boa prática salvar os arquivos compilados em um diretório separado (como build).
 
-Bash
+```Bash
 
 # Crie o diretório 'build' se ele não existir
 mkdir -p build
@@ -38,8 +41,9 @@ mkdir -p build
 # Exemplo compilando o 'hello.c' e salvando em 'build'
 gcc src/hello.c -o build/hello
 3. Execute o programa:
+```
 
-Bash
+```Bash
 
 ./build/hello
 🗺️ Roteiro de Estudos
@@ -56,4 +60,5 @@ Esta é uma lista dos tópicos que pretendo estudar e praticar. Vou marcá-los c
 [ ] Structs e Unions
 [ ] Alocação Dinâmica de Memória (malloc, calloc, free)
 [ ] Manipulação de Arquivos
+```
 Happy coding!
