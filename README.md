@@ -52,11 +52,11 @@ gcc src/hello.c -o build/hello
 ```Esta é uma lista dos tópicos que pretendo estudar e praticar. Vou marcá-los conforme avanço.
 
 [x] Sintaxe básica e "Hello, World!"
-[ ] Variáveis e Tipos de Dados (int, char, float, double)
-[ ] Operadores (Aritméticos, Lógicos, Relacionais)
-[ ] Estruturas de Controle (if, else, switch)
-[ ] Laços de Repetição (for, while, do-while)
-[ ] Funções
+[x] Variáveis e Tipos de Dados (int, char, float, double)
+[x] Operadores (Aritméticos, Lógicos, Relacionais)
+[x] Estruturas de Controle (if, else, switch)
+[x] Laços de Repetição (for, while, do-while)
+[x] Funções
 [ ] Arrays e Strings
 [ ] Ponteiros
 [ ] Structs e Unions
