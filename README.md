@@ -47,7 +47,8 @@ gcc src/hello.c -o build/hello
 
 ./build/hello
 ```
-🗺️ Roteiro de Estudos
+
+```🗺️ Roteiro de Estudos
 Esta é uma lista dos tópicos que pretendo estudar e praticar. Vou marcá-los conforme avanço.
 
 [x] Sintaxe básica e "Hello, World!"
