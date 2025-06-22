@@ -46,6 +46,7 @@ gcc src/hello.c -o build/hello
 ```Bash
 
 ./build/hello
+```
 🗺️ Roteiro de Estudos
 Esta é uma lista dos tópicos que pretendo estudar e praticar. Vou marcá-los conforme avanço.
 
@@ -60,5 +61,5 @@ Esta é uma lista dos tópicos que pretendo estudar e praticar. Vou marcá-los c
 [ ] Structs e Unions
 [ ] Alocação Dinâmica de Memória (malloc, calloc, free)
 [ ] Manipulação de Arquivos
-```
+
 Happy coding!
