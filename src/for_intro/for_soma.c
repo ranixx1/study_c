@@ -9,7 +9,7 @@ int main(void)
     {
         soma=soma+i;
     }
-    printf("A soma de 1 ate %d e: %d\n", n, soma);
+    printf("A soma de 1 ate %d é: %d\n", n, soma);
 
     return 0;
 }
