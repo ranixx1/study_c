@@ -40,8 +40,9 @@ mkdir -p build
 
 # Exemplo compilando o 'hello.c' e salvando em 'build'
 gcc src/hello.c -o build/hello
-3. Execute o programa:
 ```
+3. Execute o programa:
+
 
 ```Bash
 
