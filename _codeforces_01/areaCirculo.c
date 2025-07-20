@@ -9,5 +9,6 @@ int main(void)
     double circ = 3.14159;
     double raio_resul = pow(raio,expoente);
     printf("%f\n" ,raio_resul * circ);
+    return 0;
 }
 
