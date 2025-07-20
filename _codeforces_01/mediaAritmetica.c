@@ -8,5 +8,6 @@ int main(void)
     double b = get_double("Digite um segundo valor: ");
     double media = (a+b)/2;
     printf("A média aritmética é: %.5f\n", media);
+    return 0;
 }
 
