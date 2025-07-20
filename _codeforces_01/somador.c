@@ -8,7 +8,7 @@ int main(void)
     int x = get_int("x: ");
     int y = get_int("y: ");
     printf("%i\n",soma(x,y));
-
+    return 0;
 }
 
 int soma(int a, int b)
