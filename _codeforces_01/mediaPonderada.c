@@ -11,5 +11,5 @@ int main(void)
     double media = (nota1*peso1 + nota2*peso2)/(peso1+peso2);
 
     printf("A média ponderada é: %.2f\n", media);
-    
+    return 0;
 }
