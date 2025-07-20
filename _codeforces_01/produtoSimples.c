@@ -6,6 +6,8 @@ int main(void)
     int b = get_int("Digite um valor para b:");
     int z = a*b;
     printf("O resultado da multiplicação é: %i \n", z);
+
+    return 0;
 }
 
 
