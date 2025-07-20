@@ -25,7 +25,7 @@ Para compilar os códigos deste repositório, você precisará de um compilador 
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/ranixx1/c.git](https://github.com/ranixx1/c.git)
+git clone [https://github.com/ranixx1/c_study.git](https://github.com/ranixx1/c.git)
 cd c
 ```
 
