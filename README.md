@@ -1,4 +1,4 @@
-# Estudos em Linguagem C
+# Estudos da linguagem das cavernas C
 
 Bem-vindo ao meu repositório de estudos da linguagem C! Este espaço é dedicado a registrar meu progresso, praticar conceitos e construir um portfólio de aprendizado.
 
